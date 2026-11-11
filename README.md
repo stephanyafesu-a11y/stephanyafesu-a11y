@@ -36,9 +36,12 @@
 <h2> 📬 Entre em Contato </h2>
 <div align="center">
 
-  <a href="mailto:stephanyafeu@gmail.com">
+  <a href="mailto:stephanyafeu@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="mailto:stephany.almeida2@senaisp.edu.br">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
   <a href="https://www.instagram.com/7homann" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
